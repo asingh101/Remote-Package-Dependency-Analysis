@@ -1,0 +1,24 @@
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\FileMgr\obj\Debug\FileMgr.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\bin\Debug\FileMgr.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\bin\Debug\Environment.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\bin\Debug\Environment.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.csproj.CopyComplete
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\FileMgr\obj\Debug\FileMgr.pdb

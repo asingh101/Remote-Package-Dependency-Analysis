@@ -1,0 +1,227 @@
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\NavigatorClient.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\NavigatorClient.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\Environment.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\FileMgr.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\IService.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\PluggableCommService.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\TestUtilities.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\Environment.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\FileMgr.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\FileMgr.exe.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\IService.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\IService.dll.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\PluggableCommService.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\TestUtilities.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\bin\Debug\TestUtilities.exe.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\CodePopUp.g.cs
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\MainWindow.g.cs
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\App.g.cs
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\CodePopUp.baml
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\MainWindow.baml
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project 4 help\NavigatorClientServer\NavigatorClient\obj\Debug\NavigatorClient.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\CodePopUp.g.cs
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\MainWindow.g.cs
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\App.g.cs
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\NavigatorClient.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\NavigatorClient.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\Environment.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\IService.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\Navigate.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\PluggableCommService.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\TestUtilities.exe
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\Environment.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\Navigate.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\IService.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\IService.dll.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\PluggableCommService.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\TestUtilities.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\bin\Debug\TestUtilities.exe.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\CodePopUp.baml
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\MainWindow.baml
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\IService.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\Navigate.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\Navigate.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\IService.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\Navigate.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\Navigate.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\IService.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\Navigate.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\Navigate.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\Environment.dll
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\IService.dll
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\Navigate.dll
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\TestUtilities.exe
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\Environment.pdb
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\Navigate.pdb
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\IService.pdb
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\IService.dll.config
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\TestUtilities.pdb
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\bin\Debug\TestUtilities.exe.config
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient.csprojAssemblyReference.cache
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.cache
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient.csproj.CopyComplete
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\Saumya\Desktop\Diary\Project4_Final_AS\Project-4_AS\NavigatorClient\obj\Debug\NavigatorClient.pdb

@@ -1,0 +1,151 @@
+C:\su\CSE681\code\Project1HelpSu09\Parser\bin\Debug\Parser.exe
+C:\su\CSE681\code\Project1HelpSu09\Parser\bin\Debug\Parser.pdb
+C:\su\CSE681\code\Project1HelpSu09\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\Project1HelpSu09\Parser\obj\Debug\Parser.exe
+C:\su\CSE681\code\Project1HelpSu09\Parser\obj\Debug\Parser.pdb
+C:\su\CSE681\code\Parser\Parser\bin\Debug\Parser.exe
+C:\su\CSE681\code\Parser\Parser\bin\Debug\Parser.pdb
+C:\su\CSE681\code\Parser\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\Parser\Parser\obj\Debug\Parser.exe
+C:\su\CSE681\code\Parser\Parser\obj\Debug\Parser.pdb
+C:\su\CSE681\code\Parser-Fall11\Parser\bin\Debug\Parser.exe
+C:\su\CSE681\code\Parser-Fall11\Parser\bin\Debug\Parser.pdb
+C:\su\CSE681\code\Parser-Fall11\Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\Parser-Fall11\Parser\obj\Debug\Parser.exe
+C:\su\CSE681\code\Parser-Fall11\Parser\obj\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\Fawcett\Desktop\Parser\Parser\obj\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\Parser\Parser\obj\Debug\Parser.pdb
+C:\Users\James\Desktop\NewParser\NewParser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\NewParser\NewParser\Parser\bin\Debug\Parser.exe
+C:\Users\James\Desktop\NewParser\NewParser\Parser\bin\Debug\Parser.pdb
+C:\Users\James\Desktop\NewParser\NewParser\Parser\obj\Debug\Parser.exe
+C:\Users\James\Desktop\NewParser\NewParser\Parser\obj\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\NewParser\Parser\obj\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\NewParser\Parser\obj\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\bin\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\bin\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\obj\Debug\Parser.exe
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\obj\Debug\Parser.pdb
+C:\Users\Fawcett\Desktop\AnalyzerProject\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Parser.pdb
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Display.dll
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Display.pdb
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project4HelpF14\AnalyzerProject\Parser\obj\Debug\Parser.pdb
+C:\SU\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Display.dll.config
+C:\SU\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Parser.exe.config
+C:\SU\cse681\code\Project4HelpF14\AnalyzerProject\Parser\bin\Debug\Parser.exe
+C:\SU\cse681\code\Project4HelpF14\AnalyzerProject\Parser\obj\Debug\Parser.exe
+C:\su\temp\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\su\temp\Parser\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\su\temp\Parser\Parser\bin\Debug\Parser.exe.config
+C:\su\temp\Parser\Parser\bin\Debug\Parser.exe
+C:\su\temp\Parser\Parser\bin\Debug\Parser.pdb
+C:\su\temp\Parser\Parser\bin\Debug\Display.dll
+C:\su\temp\Parser\Parser\bin\Debug\Display.pdb
+C:\su\temp\Parser\Parser\bin\Debug\Display.dll.config
+C:\su\temp\Parser\Parser\obj\Debug\Parser.exe
+C:\su\temp\Parser\Parser\obj\Debug\Parser.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Parser.dll.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Parser.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Parser.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\DependencyTable.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Display.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Element.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\SemiExp.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Toker.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\TypeTable.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\DependencyTable.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\DependencyTable.dll.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Display.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Display.dll.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Element.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\SemiExp.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\SemiExp.dll.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Toker.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\Toker.dll.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\TypeTable.pdb
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\bin\Debug\TypeTable.dll.config
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\obj\Debug\Parser.csproj.CopyComplete
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\obj\Debug\Parser.dll
+A:\GDrive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v4\Parser\obj\Debug\Parser.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Parser.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Parser.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Parser.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\DependencyTable.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Display.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Element.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\SemiExp.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Toker.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\TypeTable.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\DependencyTable.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\DependencyTable.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Display.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Display.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Element.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\SemiExp.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\SemiExp.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Toker.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\Toker.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\TypeTable.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\bin\Debug\TypeTable.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\obj\Debug\Parser.csproj.CopyComplete
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\obj\Debug\Parser.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v6\Parser\obj\Debug\Parser.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Parser.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Parser.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Parser.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\DependencyTable.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Display.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Element.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\SemiExp.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Toker.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\TypeTable.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\DependencyTable.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\DependencyTable.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Display.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Display.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Element.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\SemiExp.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\SemiExp.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Toker.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\Toker.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\TypeTable.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\bin\Debug\TypeTable.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\obj\Debug\Parser.csproj.CopyComplete
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\obj\Debug\Parser.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v7\Parser\obj\Debug\Parser.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Parser.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Parser.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Parser.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\DependencyTable.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Display.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Element.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\SemiExp.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Toker.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\TypeTable.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\DependencyTable.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\DependencyTable.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Display.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Display.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Element.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\SemiExp.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\SemiExp.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Toker.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\Toker.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\TypeTable.pdb
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\bin\Debug\TypeTable.dll.config
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\obj\Debug\Parser.csproj.CopyComplete
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\obj\Debug\Parser.dll
+C:\Users\Souradeepta Biswas\Google Drive\Syracuse\Semester 2\CSE 681 SMA\Projects\Project 4\Project4_v8\Parser\obj\Debug\Parser.pdb
